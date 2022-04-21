@@ -7,6 +7,7 @@
 
 ## 索引
 - [文檔](#文檔)
+- [依賴](#依賴)
 - [效果](#效果)
 - [貢獻者](#貢獻者)
 - [發佈規則](#發佈規則)
@@ -17,6 +18,9 @@
 - `CSV.CSVconvert()` 調用方法 傳入 `csv` `symbol`
 - `csv` 為 CSV 格式檔案
 - `symbol` 解析符號 一般為 `,` 或 `;`
+
+## 依賴
+- pluginLoader `>=3.5.0`
 
 ## 效果
 ![unknown (1)](https://user-images.githubusercontent.com/44525760/164350505-4b475e66-bbb0-4fb6-8b45-08fa7a1b8321.png)
