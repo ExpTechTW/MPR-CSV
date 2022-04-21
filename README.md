@@ -20,7 +20,7 @@
 - `symbol` 解析符號 一般為 `,` 或 `;`
 
 ## 依賴
-- pluginLoader `>=3.5.0`
+- pluginLoader `>=3.0.0`
 
 ## 效果
 ![unknown (1)](https://user-images.githubusercontent.com/44525760/164350505-4b475e66-bbb0-4fb6-8b45-08fa7a1b8321.png)
